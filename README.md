@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dataubc
+- 👋 Hi, I’m Mohammed Salama, Lead ML and NLP Developer
 - 👀 I’m interested in the intersection between Natural Language Processing and Machine Learning
-- 🌱 I’m currently learning NER using spcCy.
+- 🌱 I’m currently translating the hugging face transformer course.
 - 💞️ I’m looking to collaborate on open source development in the area of ML and NLP
 - 📫 How to reach me dataubc@gmail.com
 
