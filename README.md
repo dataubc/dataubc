@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mohammed Salama, Senior ML and NLP Developer
+- 👋 Hi, I’m Mohammed Salama, Lead ML developer and Data Scientist
 - 👀 I’m interested in the intersection between Natural Language Processing, Computer Vision and Machine Learning
 - 🌱 I’m currently translating the hugging face transformer course.
 - 💞️ I’m looking to collaborate on open source development in the area of ML and NLP
